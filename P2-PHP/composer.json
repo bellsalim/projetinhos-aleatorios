@@ -1,0 +1,12 @@
+{
+    "name": "celke/aula",
+    "description": "Teatro",
+    "authors": [{
+        "name": "Daniel Vieira Antunes",
+        "email": "daniel.viantunes@gmail.com"
+    }],
+    "require": {
+        "php": "^7.2",
+        "chillerlan/php-qrcode": "dev-master"
+    }
+}
